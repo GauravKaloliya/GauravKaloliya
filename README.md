@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFFFFF,50:EEF2FF,100:BFDBFE&text=Gaurav%20Kaloliya&fontColor=0F172A&fontSize=64&fontAlignY=45&animation=fadeIn" width="100%" alt="Gaurav Kaloliya banner" />
+<img src="./Banner.png" width="100%" alt="Gaurav Kaloliya — The future belongs to those who create it." />
 
 <h3>Aspiring AI Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Building Intelligent Systems with ML &amp; Modern Web Tech</h3>
 
