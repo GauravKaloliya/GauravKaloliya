@@ -21,8 +21,6 @@
 
 </div>
 
-<br/>
-
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFFFFF,50:2563EB,100:FFFFFF" width="100%" alt="" /></div>
 
 ## ✦ &nbsp;About
@@ -135,8 +133,6 @@ An **IoT-enabled robotic arm** with real-time **Bluetooth / Wi-Fi** connectivity
   <a href="https://github.com/GauravKaloliya?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories%20→-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
 </div>
 
-<br/>
-
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFFFFF,50:2563EB,100:FFFFFF" width="100%" alt="" /></div>
 
 ## ✦ &nbsp;Tech Stack
@@ -156,12 +152,12 @@ An **IoT-enabled robotic arm** with real-time **Bluetooth / Wi-Fi** connectivity
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis&theme=light" alt="Databases" />
 
 **AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" />
-<img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge" alt="LLMs" />
-<img src="https://img.shields.io/badge/Generative%20AI-2563EB?style=for-the-badge" alt="Generative AI" />
-<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/LangChain-2563EB?style=for-the-badge" alt="LangChain" />
-<img src="https://img.shields.io/badge/AI%20Agents-0F172A?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/LLMs-0F172A?style=flat-square" alt="LLMs" />
+<img src="https://img.shields.io/badge/Generative%20AI-2563EB?style=flat-square" alt="Generative AI" />
+<img src="https://img.shields.io/badge/RAG-0F172A?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/LangChain-2563EB?style=flat-square" alt="LangChain" />
+<img src="https://img.shields.io/badge/AI%20Agents-0F172A?style=flat-square" alt="AI Agents" />
 <br/>
 <img src="https://img.shields.io/badge/CNN-2563EB?style=flat-square" alt="CNN" />
 <img src="https://img.shields.io/badge/RNN-0F172A?style=flat-square" alt="RNN" />
@@ -170,7 +166,7 @@ An **IoT-enabled robotic arm** with real-time **Bluetooth / Wi-Fi** connectivity
 <img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square" alt="NLP" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-0F172A?style=flat-square" alt="Prompt Engineering" />
 
-<br/><br/>
+<br/>
 
 **Cloud & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=aws,vercel,docker,cloudflare,git,github&theme=light" alt="Cloud and DevOps" />
@@ -183,8 +179,6 @@ An **IoT-enabled robotic arm** with real-time **Bluetooth / Wi-Fi** connectivity
 <img src="https://img.shields.io/badge/React%20Native-2563EB?style=flat-square&logo=react&logoColor=white" alt="React Native" />
 
 </div>
-
-<br/>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFFFFF,50:2563EB,100:FFFFFF" width="100%" alt="" /></div>
 
@@ -205,8 +199,6 @@ An **IoT-enabled robotic arm** with real-time **Bluetooth / Wi-Fi** connectivity
 </tr>
 </table>
 
-<br/>
-
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FFFFFF,50:2563EB,100:FFFFFF" width="100%" alt="" /></div>
 
 ## ✦ &nbsp;Let's Build Something
@@ -218,12 +210,7 @@ I'm open to **internships, collaborations, and ambitious ideas**.
 <br/>
 
 <a href="mailto:gauravkaloliya.official@gmail.com"><img src="https://img.shields.io/badge/gauravkaloliya.official@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<br/>
 <a href="https://www.linkedin.com/in/gaurav-kaloliya-b44569417"><img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Kaloliya-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/GauravKaloliya"><img src="https://img.shields.io/badge/X-@GauravKaloliya-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FFFFFF,50:EEF2FF,100:DBEAFE&section=footer" width="100%" alt="Footer wave" />
 
 </div>
